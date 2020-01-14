@@ -26,4 +26,4 @@ hum: Normalized humidity. The values are divided to 100 (max)
 windspeed: Normalized wind speed. The values are divided to 67 (max)
 casual: count of casual users
 registered: count of registered users
-cnt: count of total rental bikes including both casual and registered
+cnt: count of total rental bikes including both casual and registered.
